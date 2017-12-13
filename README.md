@@ -36,4 +36,5 @@ A curated list of awesome outlining tools that help you stay organized. Inspired
 - [Checkvist](https://checkvist.com) - Online outliner and task manager.
 - [Fargo](http://fargo.io) - Online outliner, stores your outlines in Dropbox. #stagnant.
 - [The Outliner of Giants](https://www.theoutlinerofgiants.com) -  A feature rich Outline Processor, similar to Fargo.
+- [Taskade](https://taskade.com) - Real-time collaborative outliner for teams.
 
