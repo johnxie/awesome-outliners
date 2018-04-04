@@ -27,6 +27,8 @@ A curated list of awesome outlining tools that help you stay organized. Inspired
 - [Org Mode](http://orgmode.org) - Edit and organizing plain-text notes mode for Emacs.
 - [The Vim Outliner](http://www.vim.org/scripts/script.php?script_id=3515) - Outlining mode for VIM.
 - [Notecase Pro](http://www.notecasepro.com) - Hierarchical personal information manager.
+- [Taskade](https://www.taskade.com/downloads) - Taskade is a cross-platform outliner with chat and real-time collaboration.
+
 
 ## Cloud based
 
@@ -36,4 +38,6 @@ A curated list of awesome outlining tools that help you stay organized. Inspired
 - [Checkvist](https://checkvist.com) - Online outliner and task manager.
 - [Fargo](http://fargo.io) - Online outliner, stores your outlines in Dropbox. #stagnant.
 - [The Outliner of Giants](https://www.theoutlinerofgiants.com) -  A feature rich Outline Processor, similar to Fargo.
+- [Taskade](https://www.taskade.com) - Taskade is a cross-platform outliner with chat and real-time collaboration.
+
 
